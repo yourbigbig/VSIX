@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://marketplace.visualstudio.com/items?itemName=tht13.gerrit-vscode
+HostUrl=https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tht13/vsextensions/gerrit-vscode/0.4.1/vspackage

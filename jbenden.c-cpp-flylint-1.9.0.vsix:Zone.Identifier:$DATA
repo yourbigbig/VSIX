@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint
+HostUrl=https://marketplace.visualstudio.com/_apis/public/gallery/publishers/jbenden/vsextensions/c-cpp-flylint/1.9.0/vspackage

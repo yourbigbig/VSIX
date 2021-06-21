@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://marketplace.visualstudio.com/items?itemName=g8up.gitee
+HostUrl=https://marketplace.visualstudio.com/_apis/public/gallery/publishers/g8up/vsextensions/gitee/0.0.6/vspackage
